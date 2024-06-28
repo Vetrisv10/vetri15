@@ -1,0 +1,43 @@
+body{
+  background-color: black; 
+  position:absolute;
+  bottom: 45px;
+  left: 80%;
+  //color: white;
+}
+
+.outer-container {
+  background-color: white; 
+  padding: 10px; 
+  width: 110%;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.button-primary{
+  padding: 10px  20px; 
+  font-size: 16px;
+  cursor: pointer;  
+}
+
+.button-secondary{
+  padding: 10px 20px; 
+  font-size: 16px;
+  cursor: pointer;  
+}
+.button-primary {
+
+  //background-color:blue;  
+  border: 2px solid black;
+  
+}
+
+.button-secondary {
+  //background-color: yellowgreen;
+  border: 2px solid black;
+}
+    
+            
